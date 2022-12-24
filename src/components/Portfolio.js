@@ -44,7 +44,7 @@ const Portfolio = () => {
         },
         {
             id:6,
-            title : "Memory Gane (Simon-Game)",
+            title : "Memory Game (Simon-Game)",
              demo_url :"https://with-tailwindcss-qh526ica2-adityapathak07.vercel.app/",
             code_url : "https://github.com/AdityaPathak07/OpenA_NFT_MarketPlace",
             src: simon
